@@ -18,3 +18,16 @@ export {
   type InitExampleLimitsType,
   type InitExamplePriority,
 } from './initExample';
+
+/**
+ * Product constants
+ */
+export {
+  PRODUCT_DEFAULTS,
+  PRODUCT_CATEGORIES,
+  PRODUCT_LIMITS,
+  type ProductDefaultsType,
+  type ProductCategoriesType,
+  type ProductLimitsType,
+  type ProductCategory,
+} from './product';
